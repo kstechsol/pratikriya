@@ -1,0 +1,23 @@
+.google-play{
+	width: 300px;
+	background: #1a76d2;
+}
+
+.join-button{
+	width: 300px;
+	font-size: 25px;
+	background: #1a76d2;
+}
+
+textarea, input{
+	border: 1px solid  #1a76d2 !important;
+}
+
+::placeholder {
+	color: #404040;
+}
+
+.kstechlink{
+	text-decoration: none;
+	font-size: 20px;
+}
